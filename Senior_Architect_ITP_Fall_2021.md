@@ -4,30 +4,57 @@
 **Role:** Architect
 **Next Role:** Senior Architect
 
+# Performance
+Each Section show performance metrics as follows:
+### Skillset - Current Expectation / Future Expectation / Current Actual
+
 # Mastery
 Each skillset in every category of every section is labeled indicating current mastery.
 
 |Mastery|Meaning|
 |-|-|
-|:green_circle:|Skillset mastered|
-|:yellow_circle:|Skillset to strive for|
-|:red_circle:|Skillset not yet acquired|
+|Mastered|High individual proficiency in skillset, able to clearly teach and apply skill|
+|Striving for|Introduced to and focused on learning skillset|
+|Not yet acquired|Not focused on mastery at this time and with limit to no prior experience in the skillset|
 
-If a skillset is mastered, I give an example of when and how the expertise was applied and what the outcome was.
+If a skillset is mastered, I give an example of how the expertise was applied and what the outcome was.
 
-# Performance
-Each Section show performance metrics as follows:
-### Skillset - Current Expectation / Future Expectation / Current Actual
 ---
 # Deliver Excellence
 
 ### PEM - 2/3/2
 
-* :green_circle: Facilitates all Agile ceremonies when needed
-  *  Lead every agile ceremony for several years and fill in to help PM/SO when asked or needed
-* :red_circle: Be able to coach within Slalom how to successfully execute Agile and PEM (with different clients)
+#### <ins>Mastered</ins>
+  * (2) Facilitates all Agile ceremonies when needed
+    * Led every agile ceremony for several years and fill in to help PM/SO when asked or needed
+  * (3) Leads Discovery efforts for their capability
+    * Stepped up to SA role for first two projects in order to ensure project stayed the course
+  * (3) Refines and prioritizes a backlog based on the product vision
+    * As as team lead, I understand the team's capabilities and velocity and how that ties into product vision and upcoming work.  I then prioritize based balancing business needs and team capabilities.
+
+#### <ins>Striving for</ins>
+  * (3) Be able to coach within Slalom how to successfully execute Agile and PEM (with different clients)
+    * Discovery has not gone well with my first two clients and I'm constantly reflecting to understand how to work with different customer environments and cultures.
+
+#### <ins>Not yet acquired</ins>
+  * (3) Demonstrates thought leadership and contributes to pem.slalom.com
 
 ### Velocity - 3/4/4
+
+#### <ins>Mastered</ins>
+  * (3) Takes shared ownership of a product
+    * Diligently studying each aspect of a project allows me to communicate to business and team with confidence.  I care about my work, so I make sure I understand what I'm working towards and how we arrive there.
+  * (4) Optimizes the velocity of teams through identifying levers to pull
+    * Understanding individual capabilities as a team lead allows for the team to consistently deliver within the sprint.
+  * (4) Evaluates the impact of team culture on velocity
+
+
+#### <ins>Striving for</ins>
+  *
+
+#### <ins>Not yet acquired</ins>
+  *
+
 
 * Lead and be the culture for the team AT ALL TIMES.  Consistency is key.
 
