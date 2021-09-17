@@ -17,7 +17,7 @@ Each skillset in every category of every section is labeled indicating current m
 |Striving for|Introduced to and focused on learning skillset|
 |Not yet acquired|Not focused on mastery at this time and with limit to no prior experience in the skillset|
 
-If a skillset is mastered, I give an example of how the expertise was applied and what the outcome was.
+On each skillset, I either give an example of how the expertise was applied and what the outcome was or reflect on where I am at this time and how I can work towards Mastery.
 
 ---
 # Deliver Excellence
@@ -47,7 +47,59 @@ If a skillset is mastered, I give an example of how the expertise was applied an
   * (4) Optimizes the velocity of teams through identifying levers to pull
     * Understanding individual capabilities as a team lead allows for the team to consistently deliver within the sprint.
   * (4) Evaluates the impact of team culture on velocity
+    * Spoken identity into a team to rebuild their confidence and understanding of who they are as a unit and how we as a team will operate.
 
+
+#### <ins>Striving for</ins>
+  * Creates new levers for optimizing velocity
+
+#### <ins>Not yet acquired</ins>
+  *
+
+### Stewardship - 3/3/4
+
+#### <ins>Mastered</ins>
+  * (5) Creates awareness of how the product, code, and documentation we leave behind impacts our brand & marketing after an engagement
+    * I believe this to my core and have applied this from a wholistic customer engagement perspective, all the way down to the name of a variable in a function.
+    * This speaks to me on a deep level and I am passionate about patiently instilling my peers and clients with this perspective.
+  * (4) Understands complete tool chain for building quality product (ALM, CI/CD, IDE, Wiki, Prototyping, etc.)
+    * Understanding the whole is important, but not truely achievable without understanding each component and how it relates to the whole picture.
+    * Personally coached and created each aspect of the full SDLC
+
+#### <ins>Striving for</ins>
+  * (5) Establishes a balance between our approach and client's to delivering software products
+    * Time in the consulting field will only harden this skill more.  My first two clients taught me the reality of consulting very quickly.
+
+#### <ins>Not yet acquired</ins>
+  *
+
+### Estimation - 3/4/3
+
+#### <ins>Mastered</ins>
+  * (3) Seeks and considers input from other capabilities
+    * Every step of each project and story impacts my teammates in some way.  I pause and ask in group and individually how they are impacted and what their thoughts are on each step taken (where appropriate).  
+  * (3) Analyzes needs and capabilities in order to mediate/guide team through collaborative estimation
+    * As an active participant and team lead, I make sure to play a respectful 'devil's advocate', even with my own designs, to make sure we all see the each aspect of the system we are building.  
+
+#### <ins>Striving for</ins>
+  * (4) Evaluates project patterns to assess complexity
+    * Actively studying for CSAA certification and lots of studying architecture patterns.
+  * (4) Evaluates past experiences to make informed decisions
+    * While I do this presently, I am continuing to learn about which parts of my past are important to consider given the current situation.
+  * (5) Intuits reasonable scope with limited information
+    * Understanding my team's capabilities is a pre-req for this.  When I have that knowledge, I have been able to provide more realistic timelines when it comes to team-based projects.
+
+#### <ins>Not yet acquired</ins>
+  * (5) Intuits reasonable scope with limited information
+    * Never done this for a LARGE LARGE project, from scratch, for a new client.
+
+### Teamwork - 2/3/4
+
+#### <ins>Mastered</ins>
+  * (4) Identifies and addresses barriers to teamwork early and efficiently
+    * Early detection of gaps in role SA role on both of my projects led to delays in effective work.  I spoke with the individuals my management about possible outcomes.  Both times I was formally asked to fill in the SA roles and be a peer to the one on the project.
+  * (4) Instills a sense of purpose for each project
+    * Without purpose I, and probably we, feel aimless and dispassionate.  I seek and promote identity and purpose often and early.
 
 #### <ins>Striving for</ins>
   *
@@ -55,31 +107,43 @@ If a skillset is mastered, I give an example of how the expertise was applied an
 #### <ins>Not yet acquired</ins>
   *
 
-
-* Lead and be the culture for the team AT ALL TIMES.  Consistency is key.
-
-### Stewardship - 3/3/4
-
-### Estimation - 3/4/3
-
-* Understand project patterns.
-* Remember to be considerate of client's 'speed' regarding access and deployments.
-
-### Teamwork - 2/3/4
-
 ### Prioritization - 3/3/4
 
+#### <ins>Mastered</ins>
+  *
+
+#### <ins>Striving for</ins>
+  *
+
+#### <ins>Not yet acquired</ins>
+  *
 * Get as involved as possible in prioritization aspects.
 * Already confortable discussing prioritization with team and clients, just remain abreast at customer's prioritization per sprint.
 
 ### Consulting - 2/2/3
 
+#### <ins>Mastered</ins>
+  *
+
+#### <ins>Striving for</ins>
+  *
+
+#### <ins>Not yet acquired</ins>
+  *
 * Remain an active listener with product managers AND developers.
   * Don't get lost in the jargin.
 * Think of how to staff a project as early into a gig as possible.
 
 ### Predictability - 3/4/3
 
+#### <ins>Mastered</ins>
+  *
+
+#### <ins>Striving for</ins>
+  *
+
+#### <ins>Not yet acquired</ins>
+  *
 *  Consider ways and how to optimize a team's predictability.
 
 ---
